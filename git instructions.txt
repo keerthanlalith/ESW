@@ -6,3 +6,6 @@ git status // status of the files what all changed etc
 git add // stageing area
 git commit //
 git push //upload to github
+
+
+git pull // to get the latest file
