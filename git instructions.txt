@@ -11,3 +11,6 @@ git push //upload to github
 git pull // to get the latest file
 
 updated at 22:26
+
+git checkout --. //revert back to last commited point
+updated at 22:36
